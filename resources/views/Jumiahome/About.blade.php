@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Jumia|About</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="{{ asset('About.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+<header class="header">
+    <img src="image jumia2/BAck-to-school-to-strip.gif" class="center">
+</header>
+
+<body>
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid" style="background-color: black">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#" style="color: white;"><b>JUMIA|ONLINE</b></a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="index.html"><span class="glyphicon glyphicon-home"></span> Home</a></li>
+
+                <li><a href="mailto:sunshineokoye6@gmail.com">Contact us </a></li>
+            </ul>
+        </div>
+    </nav>
+    <center>
+        <div class="container">
+            <h1><b>ABOUT US</b></h1>
+        </div>
+    </center>
+    <center>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-3">
+                    <p>Our Vision</p>
+                </div>
+                <div class="col-sm-3">
+                    <p>Jumia Today</p>
+                </div>
+                <div class="col-sm-3">
+                    <p>Our Hisory</p>
+                </div>
+                <div class="col-sm-3">
+                    <p>Awards</p>
+                </div>
+            </div>
+        </div>
+
+    <center>
+        <div class="containers">
+        </div>
+    </center>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <img src="image jumia2/about.jpg">
+                <div class="centered">OUR VISION <br>
+                    We are building the most beloved and trusted shopping destination for Africans.</div>
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12" style="margin-top: 18px;"><img
+                    src="https://static.jumia.com.ng/cms/content-pages/About/KE_W19_LP_About_Us_02n.jpg">
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3">
+                <p>Access 100% <br> Genuine Products<br> from Local & <br>International Vendors</p>
+            </div>
+            <div class="col-sm-3">
+                <p>Buy Anything You<br> want online at<br> the Best Prices</p>
+            </div>
+            <div class="col-sm-3">
+                <p>Search, Order on <br> all Platforms, <br> Pay on Delivery</p>
+            </div>
+            <div class="col-sm-3">
+                <p>Assisting Our Customers<br> for the best<br> Shopping Experience</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="jumbotron" style="height: 550px; margin-top: 30px">
+            <div class="row">
+                <h2><b>JUMIA TODAY</b></h2>
+                <img src="https://static.jumia.com.ng/cms/content-pages/About/KE_W19_LP_About_Us_04.png">
+
+            </div>
+            <div class="row">
+                <div class="col-sm-3">Jumia offers the <br>
+                    widest assortment <br>
+                    at an unbeatable price</div>
+                <div class="col-sm-3">The Pan African <br>
+                    Online Commerce</div>
+                <div class="col-sm-3">Samsung,<br>
+                    Infinix, Innjoo,<br>
+                    Vero Moda, Jack & Jones..
+                </div>
+                <div class="col-sm-3">Nigeria’s Biggest Online Mall</div>
+            </div>
+            <div class="row">
+                <img src="https://static.jumia.com.ng/cms/content-pages/About/KE_W19_LP_About_Us_05.png">
+            </div>
+            <div class="row">
+                <div class="col-sm-3">With Over 15 Million <br>Monthly Visitors</div>
+                <div class="col-sm-3">Discover First the <br>
+                    Best Deals on Jumia</div>
+                <div class="col-sm-3">Discover the Events <br>
+                    Changing Africa's <br>
+                    Retail Industry</div>
+                <div class="col-sm-3">During Black Friday 2015</div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="jumbotron" style="height: 300px">
+                    <P>HISTORY</P>
+                    <li class="text-left">2012: Africa internet Group (AIG) launches Jumia in Nigeria, Morocco,
+                        South Africa and Egypt.</li>
+                    <li class="text-left">2014: Jumia introduces Black Friday in Nigeria.</li>
+                    <li class="text-left">2015: Jumia Black Friday attracts 2.3 million visitors in Nigeria </li>
+                    <li class="text-left">2016: Africa Internet Group rebrands as Jumia </li>
+                    <li class="text-left">Jumia celebrates its Fifth Anniversary milestone</li>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="jumbotron" style="height: 300px">
+                    <p>AWARDS</p>
+                    <li class="text-left">2013: Jumia Nigeria is the first African company to win the world retail
+                        awards in 2013 with the previous winners including ASOS and Zappos.com </li>
+                    <li class="text-left">2015: Jumia Nigeria organizes Customer Service Excellence Awards 2015.
+                    </li>
+                    <li class="text-left">2016: Jumia is ranked among the MIT 50 Smartest Companies globally.</li>
+                    <li class="text-left">2017: Jumia is ranked, for the second year in a row, in the MIT 50
+                        Smartest Companies globally.</li>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</center>
+    <footer>
+        <div class="container-fluid" style="background-color: black;">
+
+            <div class="row">
+                <div class="col-sm-3">
+                    <h1 style="color:orange ;"><b>JUMIA|ONLINE</b></h1>
+                </div>
+
+
+                <div class="col-sm-6">
+                    <p style="color:white; margin-top: 3em ;">New to Jumia?<br>
+                        Subscribe to our newsletter to get updates on our latest offers!</b></p>
+                    <input type="text" class="form-control" id="usr" placeholder="Enter E-mail Address" style="width: 50%;">
+                    <label class="radio-inline" style="color:white; margin-top: 1em ; margin-bottom: 1em ;"><input
+                            type="radio" name="male-female" checked>Male</label>
+                    <label class="radio-inline" style="color:white; margin-top: 1em; margin-bottom: 1em ;"><input
+                            type="radio" name="male-female">Female</label>
+                </div>
+                <div class="col-sm-3">
+                    <p style="color:white; margin-top: 3em ;"><span class="glyphicon glyphicon-download"></span> DOWNLOAD
+                        JUMIA
+                        FREE APP<br>
+                        Get access to exclusive offers!</li>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid" style="background-color: #343434;">
+            <div class="row" style="margin: 10px;">
+                <div class="col-sm-3">
+                    <p style="color:white ; margin-top: 3em ;">LET US HELP YOU</p>
+                    <p style="color:white ;">Help center <br> How to shop on Jumia? <br> Delivery options and timelines?<br>
+                        How to return product on
+                        Jumia?<br> Coperate and bulk purchases? <br>Report a product?<br> Ship your package anywhere in
+                        Nigeria </p>
+                </div>
+                <div class="col-sm-3">
+                    <p style="color:white ; margin-top: 3em ;">ABOUT JUMIA</p>
+                    <p style="color:white ;"> <a href="About.html">About us</a><br> Jumia careers<br> Jumia express<br>
+                        Terms and conditions<br> Privacy policy<br> Jumia
+                        prime<br> Jumia global<br> Flash sales</p>
+                </div>
+                <div class="col-sm-3">
+                    <p style="color:white ; margin-top: 3em ;">MAKE MONEY WITH JUMIA</p>
+                    <p style="color:white ;"> Sell on jumia<br> Become a sales consultant<br> Become a jumia vendor service
+                        provider<br>Become a
+                        logistics service partner <br> Join the Jumia DA academy <br> Join jumia KOL Nigeria</p>
+                </div>
+                <div class="col-sm-3">
+                    <p style="color:white ; margin-top: 3em ;">JUMIA INTERNATIONAL</p>
+                    <p style="color:white">Algeria<br> Egypt<br> Ghana<br> Kenya<br> Senegal<br> Uganda<br> South Africa</p>
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid" style="background-color: #343434;">
+            <div class="row">
+                <center>
+                    <!-- Add font awesome icons -->
+                    <a href="#" class="fa fa-facebook"></a>
+                    <a href="#" class="fa fa-twitter"></a>
+                    <a href="google.com" class="fa fa-google"></a>
+                    <a href="#" class="fa fa-linkedin"></a>
+                    <a href="#" class="fa fa-youtube"></a>
+                    <a href="#" class="fa fa-instagram"></a>
+                </center>
+            </div>
+        </div>
+    </footer>
+</body>
+
+
+</html>

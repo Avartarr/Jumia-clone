@@ -1,0 +1,50 @@
+h1, h2{
+    color: orange
+}
+.header {
+    background-color: #87CEEB;
+    
+}
+.center {
+    margin-bottom: 3rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.containers{
+    border: solid 2px;
+    background-color: orange;
+    border: orange;
+    height: 1.5px;
+    width: 73%;
+    color:black;
+    margin-top: 0;
+    margin-bottom: 1.5em;
+}
+p, .glyphicon{
+    color: orange;
+}
+ 
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    color: white;
+  }
+
+
+
+    /* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 71%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+  a{
+    color: white
+  }

@@ -1,0 +1,43 @@
+.header {
+    background-color: #87CEEB;
+}
+
+.center {
+    margin-bottom: 3rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    color: orange;
+    transition:1s;
+}
+
+.fa {
+    padding: 30px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    color: white
+  }
+
+  .glyphicon{
+    color: orange;
+  }
+
+  footer{
+    margin-top: 50px;
+  }
+
+  .container-fluid{
+background-color: black;
+color: orange;
+  }
